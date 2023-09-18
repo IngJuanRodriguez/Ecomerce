@@ -1,0 +1,21 @@
+ 
+
+Final 
+
+git status
+git add .
+git status
+git commit -m  "#+Commit+Modification+End"
+git push -u origin main
+
+
+Dev 
+
+git status
+git add .
+git status
+git commit -m  "#+Commit+Modification+Dev"
+git push -u origin Dev
+
+
+

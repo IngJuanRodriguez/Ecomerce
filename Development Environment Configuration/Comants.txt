@@ -1,0 +1,27 @@
+Youtube tutorial 
+
+https://www.youtube.com/watch?v=gjKKtQVVCZU
+
+
+branch  
+
+
+* Git branch   		  		 		|  It tells us which branch we are standing on.
+* Git branch "Name"	 		 		|  create a new branch
+* Git branch -m  "Old Name" "New Name"	 		|  change branch name
+* Git checkout "Name of the branch you want to change"	|  switch to branch
+* Git branch   		  		 		|  It tells us which branch we are standing on.
+* Git branch -d "name of the branch you want to delete"	|  Delete branch
+* touch "File you want to create"			|  create a file on the branch you want to create it
+
+
+Public 
+
+* Git Status 
+* Git add . 
+* Git add "Name of the file you want add"
+* Git commit -m "commit the changes"
+* Git Log
+* Git push -u origin "Name of branch"
+
+
