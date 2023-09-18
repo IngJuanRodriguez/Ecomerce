@@ -1,0 +1,50 @@
+Visual Studio Code
+
+link https://code.visualstudio.com/ 
+
+
+youtube tutorial https://www.youtube.com/watch?v=HiVnGgYudLY
+
+preferencias:
+
+* Cursor Blinking the blink to expand
+
+* Linked linked edit enabled
+
+* bracket pair colorization
+
+* bracket pairs True
+
+* sticky scroll Enable 
+
+* cursor animation On
+
+
+extensions 
+
+* Palenight Theme						|  temas de visulizacion
+* one dark pro by binaryify prferencia one Dark Pro		|  Tema the Atom RPI		
+* Indenticator by SirTori					|  Identacion	
+* material Icon Theme by philipp kied material icon theme	|  cambia los icionos para ver python
+* Python by microsoft 						|  help for developing in python
+* Django by baptiste Darthenay					|  help for developing in django
+---------------------------------------------------------------------------------------------------------
+ Javascrip 
+*Prettier by  Prettier 						| help for the fromat 
+React
+*Auto Rename Tag by jun Han					| help to developed in react
+*subtle match by rafa mel					| brackets help 
+
+Steps 
+
+Ctrl + ,  ---------- settings.json
+
+"window.zoomLevel": 1,						| Zoom 
+"terminal.integrated.defaultProfile.windows": "Git Bash",	| Terminal default
+"workbench.sideBar.location": "right",				| location sideBar
+"editor.guides.indentation": false,				| disable identation default vs code
+"indenticator.width":0.1,					| size for identation
+"indenticator.color.dark": "rgba(255,255,255,0.1)",		| color for identation	
+"editor.matchBrackets": false					| disable brackets default vs code
+
+
